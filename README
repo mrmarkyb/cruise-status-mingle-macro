@@ -1,0 +1,12 @@
+cruise status macro
+---------------------------------
+
+This macro will report on cruise status. Updates on page load refresh only. Optionally change the colour of your mingle page.
+
+{{ 
+  cruise_status
+    cctray: 'url to cctray xml feed'
+    stage: 'the Project elements name attribute'
+	change-colour: 'true/false' *optional default 'false'*
+    
+}}

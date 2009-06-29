@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Projects>
+  <Project name="jbehave-monitoring :: defaultStage" activity="Sleeping" lastBuildStatus="Success" lastBuildLabel="3" lastBuildTime="2009-06-26T15:28:06" webUrl="http://localhost:8153/cruise/tab/stage/detail/175" />
+  <Project name="jbehave-monitoring :: defaultStage :: defaultJob" activity="Sleeping" lastBuildStatus="Success" lastBuildLabel="3" lastBuildTime="2009-06-26T15:28:06" webUrl="http://localhost:8153/cruise/tab/build/detail/175" />
+  <Project name="sauron :: defaultStage" activity="Sleeping" lastBuildStatus="Failure" lastBuildLabel="sauron-1.0-167" lastBuildTime="2009-06-26T11:03:46" webUrl="http://localhost:8153/cruise/tab/stage/detail/172" />
+  <Project name="sauron :: defaultStage :: defaultJob" activity="Sleeping" lastBuildStatus="Failure" lastBuildLabel="sauron-1.0-167" lastBuildTime="2009-06-26T11:03:46" webUrl="http://localhost:8153/cruise/tab/build/detail/172" />
+</Projects>
+
